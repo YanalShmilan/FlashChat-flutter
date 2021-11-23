@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907654106844",
+    "project_id": "flashchat-d896f",
+    "storage_bucket": "flashchat-d896f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907654106844:android:571b87a3a6610d1bb5ee19",
+        "android_client_info": {
+          "package_name": "co.yanal.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907654106844-g7t1qbrbpgqhsf19t56ce8kjioebi2fp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrQmxq753AxbIgxEj7agX2NUUKYxXvUhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907654106844-g7t1qbrbpgqhsf19t56ce8kjioebi2fp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
